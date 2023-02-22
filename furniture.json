@@ -1,0 +1,121 @@
+[
+    {
+        "name":"mueble 01",
+        "category":"Chair",
+        "price":"80.00",
+        "imgSrc":"img/mueble-01.jpg"
+
+    },
+
+    {
+        "name":"mueble 02",
+        "category":"Furniture",
+        "price":"200.00",
+        "imgSrc":"img/mueble-02.jpg"
+
+    },
+
+    {
+        "name":"mueble 03",
+        "category":"Chair",
+        "price":"60.00",
+        "imgSrc":"img/mueble-03.jpg"
+
+    },
+
+    {
+        "name":"mueble 04",
+        "category":"Chair",
+        "price":"70.00",
+        "imgSrc":"img/mueble-04.jpg"
+
+    },
+
+    {
+        "name":"mueble 05",
+        "category":"Chair",
+        "price":"80.00",
+        "imgSrc":"img/mueble-05.jpg"
+
+    },
+
+    {
+        "name":"mueble 06",
+        "category":"Chair",
+        "price":"84.00",
+        "imgSrc":"img/mueble-06.jpg"
+
+    },
+
+    {
+        "name":"mueble 07",
+        "category":"Table",
+        "price":"120.00",
+        "imgSrc":"img/mueble-07.jpg"
+
+    },
+
+    {
+        "name":"mueble 08",
+        "category":"Cabinet",
+        "price":"200.00",
+        "imgSrc":"img/mueble-08.jpg"
+
+    },
+
+    {
+        "name":"mueble 09",
+        "category":"Furniture",
+        "price":"250.00",
+        "imgSrc":"img/mueble-09.jpg"
+
+    },
+
+    {
+        "name":"mueble 10",
+        "category":"Furniture",
+        "price":"80.00",
+        "imgSrc":"img/mueble-10.jpg"
+
+    },
+
+    {
+        "name":"mueble 11",
+        "category":"Table",
+        "price":"90.00",
+        "imgSrc":"img/mueble-11.jpg"
+
+    },
+
+    {
+        "name":"mueble 12",
+        "category":"Table",
+        "price":"180.00",
+        "imgSrc":"img/mueble-12.jpg"
+
+    },
+
+    {
+        "name":"mueble 13",
+        "category":"Chair",
+        "price":"100.00",
+        "imgSrc":"img/mueble-13.jpg"
+
+    },
+
+    {
+        "name":"mueble 14",
+        "category":"Furniture",
+        "price":"125.00",
+        "imgSrc":"img/mueble-14.jpg"
+
+    },
+
+    {
+        "name":"mueble 15",
+        "category":"Chair",
+        "price":"85.00",
+        "imgSrc":"img/mueble-15.jpg"
+
+    }
+]
